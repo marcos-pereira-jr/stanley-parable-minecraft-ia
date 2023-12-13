@@ -20,7 +20,7 @@ def generate_narration():
     resp.completion = completion.choices[0].message
     print(completion.choices[0].message)
 
-    set_api_key("ae5993157fa8bfb29951e7de60bcd469")
+    set_api_key("")
     audio = generate(
                     text=resp.completion,
                     voice="Bella",
