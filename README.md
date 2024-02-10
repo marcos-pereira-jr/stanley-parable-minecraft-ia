@@ -2,6 +2,8 @@
 
 > Projeto para validar uso do ChatGPT e Elevenlabs para geração de narração através do Log do Minecraft
 
+> !!Projeto atualmente esta sendo desenvolvido no seguinte repositório https://github.com/parmenashp/minecraft-narrator !!
+
 Demostração abaixo:
 
 [![](https://markdown-videos-api.jorgenkh.no/youtube/R4DpEqVYNps)](https://youtu.be/R4DpEqVYNps)
@@ -20,5 +22,3 @@ observações: O Download do Áudio é a principal fonte de delay
 
 #### Links utéis
 link do tutorial -> https://lablab.ai/t/elevenlabs-tutorial-adding-a-witty-narrator-into-your-minecraft-game-via-simple-mod
-
-Estamos aberto a sugestões! :D
